@@ -58,3 +58,21 @@ if n > 0:
         print(char, ":", code)
 else:
     print("Please enter at least one character.")
+
+"""
+Enter number of characters: 4
+Enter character: 1
+Enter frequency: 4
+Enter character: 2
+Enter frequency: 6
+Enter character: 3
+Enter frequency: 8
+Enter character: 4
+Enter frequency: 7
+
+Huffman Codes:
+1 : 00
+2 : 01
+4 : 10
+3 : 11
+"""
