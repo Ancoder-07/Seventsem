@@ -76,3 +76,6 @@ plt.show()
 # 10. Conclusion
 print("\nConclusion: SVM performs better than KNN on all metrics, "
       "so it is the better choice for spam detection.")
+
+
+#https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
